@@ -6,3 +6,6 @@ Abc
 ===
 
 Dies ist eine Beispielseite
+
+
+.. figure:: grafik.png
